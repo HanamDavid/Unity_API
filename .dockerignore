@@ -1,0 +1,6 @@
+__pycache__
+.git
+.gitignore
+*.wav
+*.mp3
+audio_responses
